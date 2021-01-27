@@ -21,3 +21,6 @@
     <td>I watch anime of all kinds, from academic to fantasy. </td>
   </tr>
 </table>
+<br>
+
+<h3 align="center">🖥 My pinned projects 🖥</h3>
