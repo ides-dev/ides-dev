@@ -1,5 +1,5 @@
 <h1 align="center">✨✨✨ Welcome ✨✨✨</h1>
-<p align="center">🌠 My name is Ramsés Flores, but my nickname on the internet is ides 🌠</p>
+<p align="center">🌠 I like everything that has to do with Computer Science & Programming 🌠</p>
 <br>
 
 <h3 align="center">🎀 Hobbies table 🎀</h3>
@@ -24,3 +24,4 @@
 <br>
 
 <h3 align="center">🖥 My pinned projects 🖥</h3>
+Coming soon...
