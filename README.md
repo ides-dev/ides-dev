@@ -1,4 +1,4 @@
-<h1 align="center">✨✨✨ Welcome ✨✨✨</h1>
+<h1 align="center">✨✨✨ Welcome! ✨✨✨</h1>
 <p align="center">🌠 I like everything that has to do with Computer Science & Programming 🌠</p>
 <br>
 
