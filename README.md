@@ -10,15 +10,15 @@
   </tr>
   <tr>
     <td>Play videogames</td>
-    <td>Videogames are a common way to have fun.</td>
+    <td>Videogames are a common way to have fun</td>
   </tr>
   <tr>
     <td>Programming</td>
-    <td>Programming is cool. My favorite language is Python.</td>
+    <td>Programming is cool</td>
   </tr>
   <tr>
     <td>Watch anime</td>
-    <td>I watch anime of all kinds, from academic to fantasy. </td>
+    <td>I watch anime of all kinds, from academic to fantasy</td>
   </tr>
 </table>
 <br>
